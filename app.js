@@ -76,19 +76,19 @@ blackColorV.addEventListener("click", function () {
   cartButtonV.style.backgroundColor = "black";
   itemTagV.style.backgroundColor = "black";
   imageCardV.style.backgroundImage = 'url("blackv.jpg")';
-  // newPrice.textContent = "$13500" ;
+  newPrice.textContent = "$13500" ;
 });
 whiteColorV.addEventListener("click", function () {
   cartButtonV.style.backgroundColor = "white";
   itemTagV.style.backgroundColor = "white";
   imageCardV.style.backgroundImage = 'url("whitev.jpg")';
-//   newPrice.textContent = "$13500" ;
+  newPrice.textContent = "$13500" ;
 });
 greyColorV.addEventListener("click", function () {
   cartButtonV.style.backgroundColor = "grey";
   itemTagV.style.backgroundColor = "grey";
   imageCardV.style.backgroundImage = 'url("greyv.jpg")';
-  // newPrice.textContent = "$13500" ;
+  newPrice.textContent = "$13500" ;
 });
 
 
